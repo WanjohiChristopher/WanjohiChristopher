@@ -1,4 +1,5 @@
 <h1 align="center">Hi There 👋, I'm  Wanjohi Christopher</h1>
+
 <h3 align="center">A passionate Data Scientist & Data Engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WanjohiChristopher&label=Profile%20views&color=0e75b6&style=flat" alt="WanjohiChristopher" /> </p>
@@ -15,11 +16,11 @@
 
 - 👨‍💻 All of my projects are available at [https://WanjohiChristopher.github.io/Profile/](https://WanjohiChristopher.github.io/Profile/)
 
-- 📝 I regularly write articles on [https://codingshiksha.com/](https://codingshiksha.com/)
+- 📝 I regularly write articles on [https://chriswanjohi.netlify.app//](https://chriswanjohi.netlify.app//)
 
 - 💬 Ask me about **Data,**
 
-- 📫 How to reach me **nyagachris411@gmail.com*
+- 📫 How to reach me **christophernyaga411@gmail.com*
 
 
 - ⚡ Fun fact **sudo chmod ....**
