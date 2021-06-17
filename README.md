@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WanjohiChristopher" alt="WanjohiChristopher" /></a> </p>
 
-- 🔭 I’m currently working on [call for code]
+- 🔭 I’m currently working on  Call For Code Project For IBM
 
 - 🌱 I’m currently learning **Cloud & Data Engineering Projects**
 
