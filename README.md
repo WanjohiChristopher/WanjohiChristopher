@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm ELIJAH KUNGU</h1>
-<h3 align="center">A passionate software Engineer and Full Stackdeveloper from Kenya</h3>
+<h1 align="center">Hi 👋, I'm  Wanjohi Christopher</h1>
+<h3 align="center">A passionate Data Scientist &Engineer from Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elijahkungu&label=Profile%20views&color=0e75b6&style=flat" alt="elijahkungu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WanjohiChristopher&label=Profile%20views&color=0e75b6&style=flat" alt="WanjohiChristopher" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahkungu" alt="elijahkungu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WanjohiChristopher" alt="WanjohiChristopher" /></a> </p>
 
-- 🔭 I’m currently working on [call for code](https://github.com/users/ELIJAHKUNGU/projects/1)
+- 🔭 I’m currently working on [call for code]
 
-- 🌱 I’m currently learning **laravel,Flutter**
+- 🌱 I’m currently learning **Cloud & Data Engineering Projects**
 
-- 👯 I’m looking to collaborate on [GIS Project](https://github.com/OkomoJacob/8d19d988d6f)
+- 👯 I’m looking to collaborate on Data Projects
 
-- 🤝 I’m looking for help with [Robitics](https://github.com/ELIELIJAHKUNGU/Machine-Learning-)
+- 🤝 I’m looking for help with Cloud 
 
-- 👨‍💻 All of my projects are available at [https://elijahkungu.github.io/Profile/](https://elijahkungu.github.io/Profile/)
+- 👨‍💻 All of my projects are available at [https://WanjohiChristopher.github.io/Profile/](https://WanjohiChristopher.github.io/Profile/)
 
 - 📝 I regularly write articles on [https://codingshiksha.com/](https://codingshiksha.com/)
 
-- 💬 Ask me about **PHP,**
+- 💬 Ask me about **Data,**
 
 - 📫 How to reach me **nyagachris411@gmail.com*
 
