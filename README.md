@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://WanjohiChristopher.github.io/Profile/](https://WanjohiChristopher.github.io/Profile/)
 
-- 📝 I regularly write articles on [https://chriswanjohi.netlify.app//](https://chriswanjohi.netlify.app//)
+- 📝 I regularly write articles on [https://chriswanjohi.netlify.app//](https://wanjohichris-bbbe9.web.app/)
 
 - 💬 Ask me about **Data,**
 
