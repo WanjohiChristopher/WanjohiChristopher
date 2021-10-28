@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm  Wanjohi Christopher</h1>
 
-<h3 align="center">A Data Scientist & Data Engineer from Kenya</h3>
+<h3 align="center">A Data Scientist & Jr.Data Engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WanjohiChristopher&label=Profile%20views&color=0e75b6&style=flat" alt="WanjohiChristopher" /> </p>
 
