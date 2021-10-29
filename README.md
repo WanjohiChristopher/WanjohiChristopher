@@ -28,9 +28,9 @@
 
 - 🌱 I’m currently learning **Cloud & Data Engineering Projects**
 
-- 👯 I’m looking to collaborate on Data Projects
+- 👯 I collaborate in Data Projects
 
-- 🤝 I’m looking for help with Cloud 
+- 🤝 I’m working on Cloud 
 
 - 👨‍💻 All of my projects are available at [https://WanjohiChristopher.github.io/Profile/](https://WanjohiChristopher.github.io/Profile/)
 
