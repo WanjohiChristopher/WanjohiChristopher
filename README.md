@@ -28,8 +28,10 @@
 
 - 🌱 I’m currently learning **Cloud & Data Engineering Projects**
 
-- 👯 I collaborate in Data Projects
-
+- 👯 I collaborate in Developing Data Products.
+- 
+- 📝 I write articles on [Devto](https://dev.to/wanjohichristopher) and [Medium](https://medium.com/@nyagachris411/)
+- 
 - 🤝 I’m working on Cloud 
 
 - 👨‍💻 All of my projects are available at [https://WanjohiChristopher.github.io/Profile/](https://WanjohiChristopher.github.io/Profile/)
@@ -38,7 +40,7 @@
 
 - 💬 Ask me about **Data,**
 
-- 📫 How to reach me **christophernyaga411@gmail.com*
+- 📫 How to reach me **nyagachris411@gmail.com*
 
 
 - ⚡ Fun fact **sudo chmod ....**
