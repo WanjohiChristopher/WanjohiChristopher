@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning **Cloud & Data Engineering Projects**
 
 - 👯 I collaborate in Developing Data Products.
-- 
+
 - 📝 I write articles on [Devto](https://dev.to/wanjohichristopher) and [Medium](https://medium.com/@nyagachris411/)
 - 
 - 🤝 I’m working on Cloud 
