@@ -24,11 +24,11 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
    </p>
 
-- 🔭 I’m currently working on  DE'S AND PRO'S
+- 🔭Currently working on  DE'S AND PRO'S
 
 - 🌱 I’m currently learning **Cloud & Data Engineering Projects**
 
-- 👯 I collaborate in Developing Data Products.
+- 👯 I collaborate in Developing Data Products for campanies and organizations.
 
 - 📝 I write articles on [Devto](https://dev.to/wanjohichristopher) and [Medium](https://medium.com/@nyagachris411/)
 
