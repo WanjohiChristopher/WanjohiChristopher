@@ -30,7 +30,7 @@
 
 - 👯 I collaborate in Developing Data Products for campanies and organizations.
 
-- 📝 I write  awesome articles on [Devto](https://dev.to/wanjohichristopher) [Hashnode](https://hashnode.com/@WanjohiChristopher/joinme) and [Medium](https://medium.com/@nyagachris411/)
+- 📝 I write  awesome articles on [Devto](https://dev.to/wanjohichristopher) ,[Hashnode](https://hashnode.com/@WanjohiChristopher/joinme) and [Medium](https://medium.com/@nyagachris411/)
 
 - 🤝 I’m working on Cloud 
 
