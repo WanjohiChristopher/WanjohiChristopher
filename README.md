@@ -24,15 +24,12 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
    </p>
 
-- 🔭Currently working on  DE'S AND PRO'S
 
 - 🌱 I’m currently learning **Cloud & Data Engineering Projects**
 
-- 👯 I collaborate in Developing Data Products for campanies and organizations.
+- 👯 I collaborate in Developing Data Products for companies and organizations.
 
 - 📝 I write  awesome articles on [Devto](https://dev.to/wanjohichristopher) ,[Hashnode](https://hashnode.com/@WanjohiChristopher/joinme) and [Medium](https://medium.com/@nyagachris411/)
-
-- 🤝 I’m working on Cloud 
 
 - 👨‍💻 All of my projects are available at [https://WanjohiChristopher.github.io/Profile/](https://WanjohiChristopher.github.io/Profile/)
 
@@ -43,10 +40,6 @@
 - 📫 How to reach me **nyagachris411@gmail.com*
 
 - ⚡ Fun fact **sudo cat ....**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WanjohiChristopher&show_icons=true&locale=en&layout=compact" alt="elijahkungu" /></p>
