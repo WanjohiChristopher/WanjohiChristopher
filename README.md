@@ -31,7 +31,7 @@
 
 - 📝 I write  awesome articles on [Devto](https://dev.to/wanjohichristopher) ,[Hashnode](https://hashnode.com/@WanjohiChristopher/joinme) and [Medium](https://medium.com/@nyagachris411/)
 
-- 👨‍💻 All of my projects are available at [https://WanjohiChristopher.github.io/Profile/](https://WanjohiChristopher.github.io/Profile/)
+- 👨‍💻 All of my projects are available at [https://github.com/WanjohiChristopher](https://github.com/WanjohiChristopher)
 
 - 📝 I regularly write articles on [https://chriswanjohi.netlify.app//](https://wanjohichris-bbbe9.web.app/)
 
