@@ -32,11 +32,11 @@
 
 - 👯 I collaborate in Developing Data Products for companies and organizations.
 
-- 📝 I write  awesome articles on [Devto](https://dev.to/wanjohichristopher) ,[Hashnode](https://hashnode.com/@WanjohiChristopher/joinme) and [Medium](https://medium.com/@nyagachris411/)
+- 📝 I regularly write  awesome articles on [Devto](https://dev.to/wanjohichristopher) ,[Hashnode](https://hashnode.com/@WanjohiChristopher/joinme) and [Medium](https://medium.com/@nyagachris411/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/WanjohiChristopher](https://github.com/WanjohiChristopher)
 
-- 📝 I regularly write articles on [https://chriswanjohi.netlify.app//](https://wanjohichris-bbbe9.web.app/)
+- 📝 My first website years ago  [https://chriswanjohi.netlify.app//](https://wanjohichris-bbbe9.web.app/)
 
 - 💬 Ask me about **Data,**
 
