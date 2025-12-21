@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm  Wanjohi Christopher</h1>
 
-<h3 align="center">A Scientist & Data Engineer</h3>
+<h3 align="center">A AI Engineer & Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WanjohiChristopher&label=Profile%20views&color=0e75b6&style=flat" alt="WanjohiChristopher" /> </p>
 
@@ -25,7 +25,7 @@
    </p>
 
 
-- 🌱 I’m currently learning **Cloud & Data Engineering Projects**
+- 🌱 I’m currently learning **LLMS & Data Engineering Projects**
 
 - 👯 I collaborate in Developing Data Products for companies and organizations.
 
