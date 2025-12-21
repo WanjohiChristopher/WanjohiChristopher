@@ -4,7 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WanjohiChristopher&label=Profile%20views&color=0e75b6&style=flat" alt="WanjohiChristopher" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WanjohiChristopher" alt="WanjohiChristopher" /></a> </p>
+<p align="left">
+  <img src="https://hacked-github-stat-trophies.vercel.app/?username=WanjohiChristopher" alt="WanjohiChristopher's GitHub Trophies" />
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
