@@ -28,8 +28,10 @@
    </p>
 
 
-- 🌱 I’m currently learning **LLMS & Data Engineering Projects**
-
+- 🌱 I'm currently learning **LLMs, Agentic AI & Data Engineering**.
+  
+- 🔭 Building with **Multi-Agent Systems, Voice AI & Cloud Infrastructure (AWS)**.
+  
 - 👯 I collaborate in Developing Data Products for companies and organizations.
 
 - 📝 I regularly write  awesome articles on [Devto](https://dev.to/wanjohichristopher) ,[Hashnode](https://hashnode.com/@WanjohiChristopher/joinme) and [Medium](https://medium.com/@nyagachris411/)
@@ -38,14 +40,12 @@
 
 - 📝 My first website years ago  [https://chriswanjohi.netlify.app//](https://wanjohichris-bbbe9.web.app/)
 
-- 💬 Ask me about **Data,**
+- 💬 Ask me about **Data, AI**
 
 - 📫 How to reach me **nyagachris411@gmail.com*
 
 - ⚡ Fun fact **sudo cat ....**
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WanjohiChristopher&show_icons=true&locale=en&layout=compact" alt="elijahkungu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WanjohiChristopher&show_icons=true&locale=en" alt="WanjohiChristopher" /></p>
 
