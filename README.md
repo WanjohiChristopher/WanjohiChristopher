@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm  Wanjohi Christopher</h1>
 
-<h3 align="center">A AI Engineer & Data Engineer</h3>
+<h3 align="center">AI Engineer & Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WanjohiChristopher&label=Profile%20views&color=0e75b6&style=flat" alt="WanjohiChristopher" /> </p>
 
@@ -47,7 +47,6 @@
 - ⚡ Fun fact **sudo cat ....**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WanjohiChristopher&show_icons=true&locale=en" alt="WanjohiChristopher" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WanjohiChristopher&" alt="eWanjohiChristopher" /></p>
 
